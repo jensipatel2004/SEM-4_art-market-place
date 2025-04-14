@@ -1,0 +1,68 @@
+#v1{
+    color: rgb(6, 0, 0); font-size: 50px; position: absolute; top: 20%; left: 17%; transform: translate(-50%,-50%);
+}
+#v2{
+    font-size: 15px; position: absolute; top: 37%; left: 23%; transform: translate(-50%,-50%); color: #63a6f8;
+}
+#v32{
+    font-size: 15px; position: absolute; top: 42%; left: 17%; transform: translate(-50%,-50%); color: #4290f0;
+}
+.container-fluid{
+    height: 65%; width: 100%; position: relative;
+}
+#d1{
+    background-color: #175656; height: 70%; width: 100%; float: left;
+}
+#d2{
+    color: #89c9a7; margin-left: 20px;
+}
+#d3{
+    color: #5dc494; 
+}
+#d4{
+    color: #5dc494;
+}
+#d5{
+    color: #5dc494;
+}
+#d6{
+    color: #89c9a7;  margin-left: 60px;font-size: 25px;
+}
+#d7{
+    color: #5dc494; margin-left: 70px;
+}
+#d8{
+    color: #5dc494; margin-left: 70px;
+}
+#d9{
+color: #5dc494; margin-left: 70px;
+}
+#d10{
+color: #5dc494; margin-left: 70px;
+}
+#d11{
+color: #89c9a7; font-size: 25px; margin-left: 5px; 
+}
+#d12{
+color: #5dc494; margin-left: 10px;
+}
+#d13{
+color: #5dc494; margin-left: 10px;
+}
+#d14{
+color: #5dc494; margin-left: 10px;
+}
+#abc1{
+    border-radius: 50%; 
+    height: 40px; 
+    width: 40px; 
+    margin-right: 15px; 
+    margin-top: 3px;
+    }
+#abc2{
+    color: rgb(123, 54, 54); 
+    font-family: chiller; 
+    font-size: 30px; 
+    font-weight: bold; 
+    margin-right: 39%;
+    }
